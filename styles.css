@@ -1,0 +1,50 @@
+body {
+    background-image: url("background5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    display: none;
+}
+
+.lakitu{
+    left: 50px; 
+    width: 200px;
+    height: 250px;
+}
+
+.racer {
+    width: 200px;
+    height: 200px;  
+    left: 20px;
+    position: absolute;
+}
+
+.win{
+    width: 200px;
+    height: 300px;
+    right: 40%;
+    top: 10px;
+    display: none;
+    position:absolute;
+}
+          
+#luigi {  
+    bottom: 90px;
+}
+          
+#mario {   
+    bottom: 10px;
+}
+
+.finishline {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 1300px;
+    bottom: 60px;
+  }
